@@ -1,0 +1,167 @@
+body{
+
+    margin: 0;
+
+    font-family: Arial;
+
+    background-color: #f0f0f0;
+
+}
+
+
+
+
+
+nav{
+
+    background-color: pink;
+
+    padding: 15px;
+
+}
+
+
+
+nav h2{
+
+    display: inline;
+
+}
+
+
+
+nav ul{
+
+    list-style: none;
+
+    display: inline;
+
+}
+
+
+
+nav ul li{
+
+    display: inline;
+
+    margin-left: 15px;
+
+}
+
+
+
+nav ul li a{
+
+    text-decoration: none;
+
+    color: black;
+
+}
+
+
+
+
+
+.home{
+
+    padding: 30px;
+
+}
+
+
+
+.text{
+
+    margin-bottom: 20px;
+
+}
+
+
+
+.image img{
+
+    width: 250px;
+
+}
+
+
+
+
+
+.breeds{
+
+    padding: 30px;
+
+}
+
+
+
+.card{
+
+    background-color: white;
+
+    width: 220px;
+
+    padding: 15px;
+
+    margin-bottom: 20px;
+
+}
+
+
+
+.card img{
+
+    width: 100%;
+
+}
+
+
+
+
+
+.contact{
+
+    padding: 30px;
+
+}
+
+
+
+input,
+
+textarea{
+
+    width: 250px;
+
+    padding: 10px;
+
+}
+
+
+
+button{
+
+    padding: 10px 20px;
+
+    background-color: hotpink;
+
+    border: none;
+
+    color: white;
+
+}
+
+
+
+
+
+footer{
+
+    background-color: pink;
+
+    text-align: center;
+
+    padding: 10px;
+
+}
